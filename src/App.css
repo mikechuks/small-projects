@@ -1,0 +1,132 @@
+.oneFirstBox{
+
+}
+.twoFirstBox{
+    background-color: #ffffff;
+    text-align: center;
+}
+.bigCarousel{
+  height: 90vh;
+}
+.myCarousel{
+  height: 500px;
+  background-color: #BCCDD4;
+}
+.myCarouselTwo{
+  height: 500px;
+  background-color: #A1D6DC;
+}
+.myProductCarousel{
+    height: 500px;
+    background-color: #ffffff;    
+}
+.myProductCarouselTwo{
+    height: 500px;
+    background-color: #ffffff;    
+}
+.productAll{
+    background-color: #F6F6F6;
+}
+.myText{
+    color: #050D1A;
+}
+.myImg{
+    height: 80vh;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+.myImgs{
+    max-height: 300px;
+    max-width: 300px;
+}
+.myImges{
+    height: 60px;
+    width: 60px;
+}
+.myImgLogo{
+    height: 50px;
+    width: 190px;
+}
+.oneAllImg{
+    width: 500px;
+}
+.allImg{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+}
+h1{
+    font-size: 4.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+h2{
+    font-size: 2rem; 
+}
+.nomParagraph{
+    font-size: 1.5rem;  
+}
+.smalParagragh{
+    font-size: 1.2rem;     
+}
+.oneSecoundBox{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.SecoundBox{
+    display: flex;
+    justify-content: center;
+}
+.SecoundBox{
+    width: 350px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: #050D1A;
+    color: #ffffff;
+    flex-wrap: wrap;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footerOne{
+    width: 350px;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+}
+ul li{
+    display: block;
+    padding: 0px 0px 15px 0px;
+}
+.inputItems{
+    display: flex;
+    justify-content: center;
+}
+.inputClass{
+    height: 60px;
+    width: 250px;
+    border-radius: 40px;
+}
+.inputButton{
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    background-color: #1B56B5;
+    margin-left: 35px;
+}
+.footerTwo{
+    display: flex;
+    justify-content: center;
+    background-color: #05142A;
+    color: #ffffff;
+    text-align: center;
+}

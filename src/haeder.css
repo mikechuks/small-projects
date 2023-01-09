@@ -1,0 +1,45 @@
+.ContainerNav{
+    background-color: #050D1A;
+    height: 100px;
+}
+.smallContainerNav{
+    display: flex;
+    padding-top: 30px;
+}
+.smallContainerNav span{
+    display: flex;
+    padding-left: 20px;
+}
+.mySpans{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    right: 0px;
+    padding: 20px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mySpans span{
+    color: #ffffff;
+    float: right;
+    position: relative;
+    margin: 0px 1vw 0px 1vw;
+}
+.mySpansd{
+    display: none;
+}
+@media (max-width:861px) {
+    .mySpans{
+        display: none;
+    }
+    .mySpansd{
+        display: block;
+        position:absolute;
+        right: 0px;
+        z-index: 2;
+    }
+    .navStyle{
+        background-color:#050D1A ;
+    }
+}
